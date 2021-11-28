@@ -10,6 +10,10 @@ In this challenge semantic elements were added to make the code more readable. T
 
 To open this webpage just use this link [https://derpvoltz.github.io/horiseon-accesibility-upgrade/](https://derpvoltz.github.io/horiseon-accesibility-upgrade/)
 
+## Screenshot
+
+![Landing page screenshot](./assets/images/landing-page-screenshot.png)
+
 ## Credits
 
 RICE-VIRT-BO-FSF-PT-11-2021-U-B
